@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "tyriar.sort-lines",
+        "aaron-bond.better-comments",
+        "streetsidesoftware.code-spell-checker-cspell-bundled-dictionaries",
+        "github.vscode-pull-request-github",
+        "techer.open-in-browser",
+        "esbenp.prettier-vscode"
+    ]
+}

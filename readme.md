@@ -8,3 +8,9 @@ Other tools:
 
 - [Git LFS](https://git-lfs.com/) to better track changes to images
 - GitHub Actions to automatically deploy the site
+
+Developer tools:
+
+- Bash to bundle the project
+- Node.js to run QoL scripts
+- Prettier to format the repo
