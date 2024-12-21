@@ -34,7 +34,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Move HTML to dist
-        run: bash mkdir dist && cp index.html dist/index.html
+        run: mkdir dist && cp index.html dist/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
