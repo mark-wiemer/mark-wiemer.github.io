@@ -1,0 +1,19 @@
+{
+    "scripts": {
+        "bundle": "bash ./bundle.bash",
+        "bundle//": "echo Duplicated in static.yml for speed",
+        "format": "prettier --check .",
+        "format:fix": "prettier --write .",
+        "lint": "npm run sort-package-json && npm run format",
+        "lint:fix": "npm run sort-package-json:fix && npm run format:fix",
+        "sort-package-json": "sort-package-json --check",
+        "sort-package-json:fix": "sort-package-json"
+    },
+    "prettier": {
+        "tabWidth": 4
+    },
+    "devDependencies": {
+        "prettier": "^3.4.2",
+        "sort-package-json": "^2.12.0"
+    }
+}
