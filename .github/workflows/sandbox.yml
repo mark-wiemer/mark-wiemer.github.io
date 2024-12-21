@@ -14,4 +14,4 @@ jobs:
               with:
                   lfs: true
             - name: Move HTML to dist
-              run: ./bundle.bash
+              run: bash bundle.bash
