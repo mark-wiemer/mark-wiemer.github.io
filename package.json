@@ -1,7 +1,5 @@
 {
     "scripts": {
-        "bundle": "bash ./bundle.bash",
-        "bundle//": "echo Duplicated in static.yml for speed",
         "format": "prettier --check .",
         "format:fix": "prettier --write .",
         "lint": "npm run sort-package-json && npm run format",
