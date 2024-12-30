@@ -11,6 +11,5 @@ Other tools:
 
 Developer tools:
 
-- Bash to bundle the project
 - Node.js to run QoL scripts
 - Prettier to format the repo
