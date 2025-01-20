@@ -4,6 +4,10 @@ Hosted at [mark-wiemer.github.io/hello-github-pages](https://mark-wiemer.github.
 
 Getting started with [GitHub Pages](https://https://pages.github.com/).
 
+Notes:
+
+- GitHub Pages seems to deploy each html file independently: The home page may have updated, but that doesn't mean the about page is also up-to-date! Be patient and review the html :)
+
 Other tools:
 
 - [Git LFS](https://git-lfs.com/) to better track changes to images
