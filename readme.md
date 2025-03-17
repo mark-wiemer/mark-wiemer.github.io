@@ -2,7 +2,7 @@
 
 Hosted at [mark-wiemer.github.io/hello-github-pages](https://mark-wiemer.github.io/hello-github-pages/)
 
-Getting started with [GitHub Pages](https://https://pages.github.com/).
+Getting started with [GitHub Pages](https://pages.github.com/).
 
 Notes:
 
