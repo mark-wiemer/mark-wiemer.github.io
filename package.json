@@ -1,5 +1,5 @@
 {
-  "name": "markwiemer.github.io",
+  "name": "mark-wiemer.github.io",
   "scripts": {
     "dev": "http-server site -o",
     "build": "cp -r site dist",
